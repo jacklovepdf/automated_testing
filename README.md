@@ -6,6 +6,8 @@ the note of automated testing
 1.1 单元测试
 
     A single piece of code (usually an object or a function) is tested, isolated from other pieces；
+    单元测试的主要作用是把一个复杂的应用拆分为一个个代码片段或者小的功能模块（通常是一个对象或者功能函数）分别进行独立测试；独立表征了测试单位是不依赖
+网络，数据库等其它外界任何其它条件（必要的时候，可以mock）;
     
 1.2 集成测试
 
