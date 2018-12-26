@@ -12,11 +12,12 @@ the note of automated testing
 1.2 集成测试
 
     Multiple pieces are tested together；
+    集成测试是把多个小的功能模块整合起来一起进行测试；
     
 1.3 功能测试
 
     Automatic testing of the entire application, for example using a tool like Selenium to automatically run a browser.
-
+    对整个应用进行自动化测试，例如使用Selenium这样的工具自动运行一个浏览器；
 
 一般来说，如果你觉得写一个单元测试比较复杂，那么很可能并不是一个单元测试；相对而言，集成测试和功能测试比单元测试更加的复杂和难以维护;
 
